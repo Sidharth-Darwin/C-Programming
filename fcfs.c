@@ -1,3 +1,5 @@
+// Program to simulate FCFS scheduling (First Come First Serve Scheduling)
+
 #include <stdio.h>
 
 void SortingArrivalTime(int n,int Process[30][6]);
